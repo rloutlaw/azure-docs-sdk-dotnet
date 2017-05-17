@@ -7,5 +7,5 @@
     topicHref: /dotnet/azure/index
     items:
     - name: Reference
-      tocHref: /dotnet/api/azure_ref_toc/
+      href: /dotnet/api/
       topicHref: /dotnet/api/overview/azure/index
