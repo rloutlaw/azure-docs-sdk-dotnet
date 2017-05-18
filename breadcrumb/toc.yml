@@ -3,9 +3,5 @@
   topicHref: /azure/index
   items:
   - name: Azure libraries for .NET
-    tocHref: /dotnet/azure/
+    tocHref: /dotnet/
     topicHref: /dotnet/azure/index
-    items:
-    - name: Reference
-      href: /dotnet/api/
-      topicHref: /dotnet/api/overview/azure/index
