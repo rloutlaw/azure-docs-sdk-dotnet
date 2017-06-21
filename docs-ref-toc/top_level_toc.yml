@@ -1,5 +1,6 @@
 - name: Reference
   uid: azure.net.sdk.landingPage.reference
+  expanded: true
   landingPageType: Root
   items:
   - name: Active Directory
